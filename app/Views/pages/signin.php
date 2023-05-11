@@ -10,5 +10,5 @@
 		<input type="password" id="password" name="password" required>
 		<label for="password-confirm">Confirmar contraseña</label>
 		<input type="password" id="password-confirm" name="password-confirm" required>
-		<input type="submit" value="Registrarse">
+		<input type="submit" value="Registrar">
 	</form>
